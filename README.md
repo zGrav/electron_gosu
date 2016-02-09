@@ -2,7 +2,7 @@
 A minimal approach to using GOSU's web application
 
 # DOWNLOAD
-Coming soon
+Available now on this repo
 
 # ISSUES/SUGGESTIONS
 Use it and abuse it!
